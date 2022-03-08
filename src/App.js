@@ -29,8 +29,8 @@ function App() {
   return (
     <>
       <div className='headerWrapper'>
-        <header>
-          <h1  className='title main'>Star Wars</h1>
+        <header className = 'title'>
+          <h1>Star Wars</h1>
           <h2>Search Your Favorite Star Wars API</h2>
         </header>
 
